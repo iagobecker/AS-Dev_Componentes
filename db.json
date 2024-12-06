@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "teste",
+      "price": 500,
+      "description": "testte",
+      "image": "https://moveiseeletrofriburgo.vteximg.com.br/arquivos/ids/167051-1000-1000/Rondomoveis-sofa-de-canto-490-sofa-de-canto-ambientado-2.jpg?v=637794012026500000",
+      "id": "a3f9"
+    },
+    {
+      "id": "acff",
+      "name": "fddfdf",
+      "price": 4343,
+      "description": "sdvsdf",
+      "image": "https://images.tcdn.com.br/img/img_prod/818944/conjunto_sala_de_jantar_extensivel_mesa_tampo_de_vidro_com_4_cadeiras_177_1_b5e8361f80668b9950b320971eef6063.jpg"
+    }
+  ]
+}
